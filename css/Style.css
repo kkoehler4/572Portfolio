@@ -1,0 +1,160 @@
+.navbar{
+    font-family: 'Shippori Antique B1', sans-serif; 
+}
+.nav-link{
+    color:#350a04;
+}
+.navigation{ 
+    background-color: white;
+}
+.navigation a{
+    padding: 20px; 
+}
+.navigation{
+    padding-left: 30px;
+}
+.img{ 
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.container{
+    padding-left: 175px;
+    padding-top: 30px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#690c00; 
+}
+.container2{
+    padding-left: 600px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.skiing{
+    padding-left: 40px;
+}
+.description{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    color:#690c00; 
+    font-family: 'Shippori Antique B1', sans-serif; 
+}
+p{
+    color: rgb(141, 121, 121);
+    font-family: 'Crimson Pro', serif;
+    font-size: 19px;
+}
+.image-desc{
+    display: none;
+    position: absolute;
+    bottom: 0;
+}
+.resume{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#690c00;
+    padding-left: 100px;
+}
+.mydescription{
+    color: rgb(141, 121, 121);
+    font-family: 'Crimson Pro', serif;
+    padding-left: 100px;
+}
+.bullets{
+    color: rgb(141, 121, 121);
+    font-family: 'Crimson Pro', serif;
+    font-size: 19px;
+}
+h1{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#690c00;
+    font-size: 70px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+h2{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#690c00;
+}
+h3{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#000000;  
+}
+h4{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#474242; 
+}
+h5{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#474242; 
+}
+h6{
+    font-family: 'Shippori Antique B1', sans-serif;
+    color:#474242; 
+}
+.resume{
+    padding-left: 100px;
+}
+
+.tree{
+   padding-left: 50px;
+   padding-top: 200px
+}
+h2{
+    font-size: 70px;
+}
+.thingsaboutme{
+    font-size: 30px;
+    color: rgb(141, 121, 121);
+    font-family: 'Crimson Pro', serif;
+}
+.img-description{
+    color: rgb(141, 121, 121);
+    font-family: 'Crimson Pro', serif;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+.project{
+    padding-left: 30px;
+}
+.links{
+    color: rgb(141, 121, 121);
+    font-family: 'Crimson Pro', serif;
+    font-size: 19px;
+}
+.links :hover{
+    opacity: 0.5
+}
+.links :hover .image-desc{
+    display: block;
+}
+.more{
+    padding-left: 350px;
+}
+.circle{
+    position: relative;
+}
+.circle :hover{
+    opacity: 0.5
+}
+.circle:hover .image-desc{
+    display: block;
+}
+.Ski{
+    position: relative;
+}
+.Ski:hover{
+    opacity: 0.5
+}
+.Ski:hover .image-desc{
+    display: block;
+}
+.Ski{
+    padding-left: 40px;
+}
